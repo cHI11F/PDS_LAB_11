@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A47B145-1B97-40BA-BABE-89FDDB342437}|PDS_LAB_11\\PDS_LAB_11.vcxproj|D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\PDS_LAB_11\\PDS_LAB_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A47B145-1B97-40BA-BABE-89FDDB342437}|PDS_LAB_11\\PDS_LAB_11.vcxproj|solutionrelative:PDS_LAB_11\\PDS_LAB_11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F44851-F72C-42A4-A90B-1F5AE6923F2D}|UnitTest1\\UnitTest1.vcxproj|D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84F44851-F72C-42A4-A90B-1F5AE6923F2D}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T17:56:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PDS_LAB_11.cpp",
+              "DocumentMoniker": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\PDS_LAB_11\\PDS_LAB_11.cpp",
+              "RelativeDocumentMoniker": "PDS_LAB_11\\PDS_LAB_11.cpp",
+              "ToolTip": "D:\\\u0420\u041E\u0411\u041E\u0422\u0418 \u041F\u0414\u0421\\PDS_LAB_11\\PDS_LAB_11\\PDS_LAB_11.cpp",
+              "RelativeToolTip": "PDS_LAB_11\\PDS_LAB_11.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T17:41:20.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
